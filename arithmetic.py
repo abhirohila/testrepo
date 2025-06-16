@@ -14,6 +14,11 @@ def divide(x, y):
         return "Error! Division by zero."
     return x / y
 
+def square(x):
+    return x*x
+
+
+
 # User input
 print("Select Operation:")
 print("1. Add")
